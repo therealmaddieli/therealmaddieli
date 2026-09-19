@@ -3,7 +3,7 @@
 📍 Berlin | Partnerships & business development in AI infrastructure | 🤖 Building in public
 
 I've spent 10+ years building revenue-driving partnerships and ecosystems across blockchain
-infrastructure, fintech and AI platforms — usually as the first partnerships hire, building the
+infrastructure, fintech and software — usually as the first partnerships hire, building the
 programme from zero. Lately I've been on the other side of the table: shipping AI tooling in
 public, with the API keys, the invoices and the 2am debugging that come with it.
 
@@ -82,5 +82,5 @@ HTML file that needs no server and no API key to read.
 ## Random Facts
 
 - Espresso-fueled problem solving
-- I debug better with humor
-- Open to opportunities in AI, fintech, and developer experience
+- I debug better with dry humor
+- Open to opportunities in AI, fintech, and PM experience
