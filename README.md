@@ -52,21 +52,6 @@ HTML file that needs no server and no API key to read.
 - 🎫 **[Ticketmaster Demo](https://github.com/therealmaddieli/ticketmaster)** — search, filters and data fetching
 - 🌐 **[Portfolio](https://therealmaddieli.github.io/portfolio/)** — the site I keep iterating on
 
-## What I'm Doing
-
-- 🧠 Learning AI by building real-world experiments and pet projects
-- 💡 Exploring fintech & crypto intersections with AI
-- 🧭 Shipping frequently — turn ideas into runnable demos, fast
-- 📝 Writing about AI workflows and developer experience
-
-## AI Journey (Timeline)
-
-- 2024 Q4: LLM experiments and prompt engineering; small prototypes
-- 2025 Q1: Building in public; shipping more consistently
-- 2025: **Cost-Route** — a measured, open-source AI procurement report, live and in production use
-  as a portfolio artifact
-- 2025 Now: Focus on openclaw, agents, and practical demos
-
 ## What I Care About
 
 - Making the economics of AI legible to the people who have to sign off on them
@@ -81,12 +66,8 @@ HTML file that needs no server and no API key to read.
 - Cost-Route: https://therealmaddieli.github.io/cost-route/
 - Portfolio: https://therealmaddieli.github.io/portfolio/
 
+Open to opportunities in AI, fintech, and PM experience.
+
 ## Philosophy
 
 > Ship beats perfect. I'm learning in public and iterating toward useful, delightful outcomes.
-
-## Random Facts
-
-- Espresso-fueled problem solving
-- I debug better with dry humor
-- Open to opportunities in AI, fintech, and PM experience
