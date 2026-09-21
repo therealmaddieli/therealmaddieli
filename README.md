@@ -39,10 +39,12 @@ with every error named and priced.
 
 ![Where the estimate went wrong, itemised and priced](assets/cost-route-waterfall.png)
 
-**Built with:** a twelve-node **n8n** workflow — raw HTTP Request nodes for every catalogue and
-model call, Code nodes for unit normalisation, rule-based scoring, the cost engine and the ledger
-— and **Claude Code** as the agentic coding tool. 318 tests, MIT licensed, and the report is one
-HTML file that needs no server and no API key to read.
+**Built with:** a sixteen-node **n8n** workflow that takes a customer's own workload — contract,
+questions with known answers, criteria and shortlist — through a form or a webhook, rather than a
+hard-coded demo. Raw HTTP Request nodes for every catalogue and model call, Code nodes for unit
+normalisation, rule-based scoring, the cost engine and the ledger, and **Claude Code** as the
+agentic coding tool. 318 tests, MIT licensed, and the report is one HTML file that needs no server
+and no API key to read.
 
 ![The Cost-Route n8n workflow canvas](assets/cost-route-n8n-canvas.png)
 
