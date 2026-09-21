@@ -31,8 +31,10 @@ with every error named and priced.
 - **Legal contract review:** the buyer estimated **$18/month**. Their own stated assumptions priced
   to **$5.10**. The measured calls cost **$5.11**. The first gap is arithmetic; only the second one
   is a measurement problem, and only the second one would have been caught by measuring anything.
-- **The quality gate separated the shortlist:** GPT-5 mini passed 14/14; GPT-4o mini failed at
-  12/14 with one fabricated answer — cheaper per call, and unusable for the task.
+- **The cheap model matched the frontier.** Six candidates, the same 14 questions: DeepSeek V4 Pro,
+  Kimi K3 and GPT-5.6 Sol all scored 14/14, while Claude Fable 5.1 scored 13/14 — at **$0.80 a run
+  against DeepSeek V4 Pro's $0.015**. The incumbent, GPT-4o mini, failed on a fabricated answer. On
+  this workload the frontier price bought nothing.
 - **Image generation:** the same one-sentence prompt cost **238× more prompt tokens** on one model
   than another, while the bills landed within **4%** of each other and latency differed **5.9×**.
   Three metrics, three different winners, and no price list shows any of it.
