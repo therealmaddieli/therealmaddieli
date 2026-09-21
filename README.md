@@ -12,6 +12,8 @@ public, with the API keys, the invoices and the 2am debugging that come with it.
 **[Read the live report →](https://therealmaddieli.github.io/cost-route/)** ·
 **[Source →](https://github.com/therealmaddieli/cost-route)**
 
+![The Cost-Route report: what an AI workload actually costs](assets/cost-route-report-hero.png)
+
 One self-contained HTML page that prices the same AI workload across three procurement routes —
 closed API, open weights served by a third party, and open weights self-hosted — and shows where
 the buyer's own estimate went wrong. Every measured figure comes from calls that were actually
@@ -35,10 +37,14 @@ with every error named and priced.
   than another, while the bills landed within **4%** of each other and latency differed **5.9×**.
   Three metrics, three different winners, and no price list shows any of it.
 
+![Where the estimate went wrong, itemised and priced](assets/cost-route-waterfall.png)
+
 **Built with:** a twelve-node **n8n** workflow — raw HTTP Request nodes for every catalogue and
 model call, Code nodes for unit normalisation, rule-based scoring, the cost engine and the ledger
 — and **Claude Code** as the agentic coding tool. 318 tests, MIT licensed, and the report is one
 HTML file that needs no server and no API key to read.
+
+![The Cost-Route n8n workflow canvas](assets/cost-route-n8n-canvas.png)
 
 ## Other things I've built
 
